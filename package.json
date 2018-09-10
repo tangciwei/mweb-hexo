@@ -1,0 +1,30 @@
+{
+  "name": "mweb-hexo",
+  "version": "1.0.0",
+  "description": "mweb导出文件转换为hexo",
+  "main": "index.js",
+  "bin": {
+    "mdh": "bin/bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tangciwei/mweb-hexo.git"
+  },
+  "keywords": [
+    "markdown",
+    "mweb",
+    "hexo"
+  ],
+  "author": "tangciwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangciwei/mweb-hexo/issues"
+  },
+  "homepage": "https://github.com/tangciwei/mweb-hexo#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
