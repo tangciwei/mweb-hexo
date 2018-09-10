@@ -1,6 +1,6 @@
 {
   "name": "mweb-hexo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mweb导出文件转换为hexo",
   "main": "index.js",
   "bin": {

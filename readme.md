@@ -1,5 +1,7 @@
 # markdown助手
 
+> 专为hexo博客服务，将从第三方导出的markdown资源格式化生成hexo文件。
+
 全局安装
 
 `npm install mweb-hexo -g`

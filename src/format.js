@@ -49,6 +49,11 @@ function contentFormat(List) {
         }
 
     }
+    //  加入阅读更多；
+    if (len > 6) {
+        let more = '\n<!--more-->\n\n';
+        List.splice(3, 1, more);
+    }
 
     return List;
 }
